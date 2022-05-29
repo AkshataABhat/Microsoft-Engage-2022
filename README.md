@@ -1,11 +1,11 @@
 
 # Electronic Voting System
 
-### Hey! This is Akshata A Bhat! 
+### Hey! This is Akshata A Bhat! 👋👋
 
 #### This is my project developed for Microsoft Engage 2022. This is an electronic voting machine based on an Ethereum Blockchain with Face Recognition Authentication.
 
-## 1. Face Recognition:
+## 1. Face Recognition: 🖥 🖥
 
 ### I have developed a GUI-based application for face recognition.
 ### To run the code for face recognition:
@@ -48,7 +48,7 @@ Run The python file
 Go to the project directory
 
 ```bash
-  cd Voting Dapp
+  cd Voting Dapp🗳🗳
 ```
 
 Install requirements
@@ -79,5 +79,5 @@ Start the development server
 ![Screenshot 2022-05-29 235325](https://user-images.githubusercontent.com/74967139/170885906-c05d8c89-9d79-413c-a4c3-47a8af8d54b1.jpg)
 
 
-Due to some technical issues, I was unable to integrate the Face Authentication with the Voting Dapp :(
-However, it is a work in progress and I will be implementing the face recognition in the next iteration of the project.
+Due to some technical issues, I was unable to integrate the Face Authentication with the Voting Dapp.
+However, it is a work in progress and I will be implementing the face recognition in the next iteration of the project. 🙌
