@@ -70,6 +70,14 @@ Start the development server
 ```bash
   npm start
 ```
+![Screenshot 2022-05-29 235619](https://user-images.githubusercontent.com/74967139/170885887-e231789f-e683-4aa7-96a6-06d36f55233c.jpg)
+
+![Screenshot 2022-05-29 235606](https://user-images.githubusercontent.com/74967139/170885889-021eaaa8-b360-4b41-a478-eb6752878ffd.jpg)
+
+![Screenshot 2022-05-29 235503](https://user-images.githubusercontent.com/74967139/170885892-f3db3c82-110b-4c63-9936-00d4bf014c7e.jpg)
+
+![Screenshot 2022-05-29 235325](https://user-images.githubusercontent.com/74967139/170885906-c05d8c89-9d79-413c-a4c3-47a8af8d54b1.jpg)
+
 
 Due to some technical issues, I was unable to integrate the Face Authentication with the Voting Dapp :(
 However, it is a work in progress and I will be implementing the face recognition in the next iteration of the project.
