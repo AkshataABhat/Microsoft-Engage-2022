@@ -40,7 +40,7 @@ Run The python file
 
 ![Screenshot 2022-05-29 223029](https://user-images.githubusercontent.com/74967139/170882548-a4439e91-efc8-41d8-83e0-5a0a505b758c.jpg)
 
-## 2. Blockchain Election App: 
+## 2. Blockchain Election App: 🗳🗳
 ```bash
   git clone {Voting Dapp folder}
 ```
@@ -48,7 +48,7 @@ Run The python file
 Go to the project directory
 
 ```bash
-  cd Voting Dapp🗳🗳
+  cd Voting Dapp
 ```
 
 Install requirements
