@@ -41,5 +41,35 @@ Run The python file
 ![Screenshot 2022-05-29 223029](https://user-images.githubusercontent.com/74967139/170882548-a4439e91-efc8-41d8-83e0-5a0a505b758c.jpg)
 
 ## 2. Blockchain Election App: 
+```bash
+  git clone {Voting Dapp folder}
+```
 
+Go to the project directory
 
+```bash
+  cd Voting Dapp
+```
+
+Install requirements
+
+ganache-cli
+truffle framework
+
+```bash
+  ganache-cli
+```
+Deploy the smart contract
+
+```bash
+  truffle migrate
+```
+
+Start the development server
+
+```bash
+  npm start
+```
+
+Due to some technical issues, I was unable to integrate the Face Authentication with the Voting Dapp :(
+However, it is a work in progress and I will be implementing the face recognition in the next iteration of the project.
